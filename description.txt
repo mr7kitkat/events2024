@@ -1,0 +1,16 @@
+Design an Event Webpage using HTML and CSS - 
+
+Events webpage plays a vital role in promoting and booking an event. In this article, we are going to build an event page, it will contain the details of the events like dates, booking options, and view more details button. We will use HTML to give the basic layout like title, details, buttons, etc. and CSS will give a beautiful design to our layout like text decoration, text color, background color, text alignment, margin, padding, box floating, etc.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Approach -
+
+1. Create a structured HTML page to represent the event details, schedule, and information.
+2. We will create two divs first for the left content (it will contain the details of the event) and the right one will have 3 boxes containing a summary of events (like date, view more button, etc.).
+3. The left section containing the design has a header and text created using <h1> and <p> tags. The right section having 3 boxes contains – a view more created using the button, and time created using the span tag. It also contains a header and paragraph.
+4. In the CSS section, we will create a box design using (box-sizing) for both the left and right sections, giving background color, text alignment, text-decoration, and hover effect using transition effect. We will also give different background colors to hover effects to
+
+
+For more details see -
+https://www.geeksforgeeks.org/design-an-event-webpage-using-html-css/
